@@ -3,7 +3,7 @@
 <h2> 🖥️ Software Development Projects:</h2>
 
 - <b> Responsive Web Pages </b>
-  - BASEPLATE
+  - [Freelancer Website](https://github.com/bethanyrai1/Freelancer-Webpage)
   - BASEPLATE
  
 - <b> C# (.NET Desktop Applications) </b>
