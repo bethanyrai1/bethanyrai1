@@ -4,12 +4,11 @@
 
 - <b> Responsive Web Pages </b>
   - [Freelancer Website](https://github.com/bethanyrai1/Freelancer-Webpage)
-  - BASEPLATE
+  - [My Personal Portfolio Website - Unfinished](https://github.com/bethanyrai1/My-Portfolio-W.I.P)
  
 - <b> C# (.NET Desktop Applications) </b>
-  - BASEPLATE
-  - BASEPLATE
-  - BASEPLATE
+  - [Weather App](https://github.com/bethanyrai1/Weather-Application)
+  - [Monitoring Products (Appending/Searching)](github.com/bethanyrai1?tab=repositories)
 
 <h2>  📞 Connect with me:</h2>
 
